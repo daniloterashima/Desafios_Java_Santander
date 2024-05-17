@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-/*
+/**
 *@AUTHOR DANILO TERASHIMA 
  * 
 */
