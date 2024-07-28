@@ -1,4 +1,4 @@
-# Santander Dev Week 2024 Java API
+# Desafio Santander 2024 Java API
 
 RESTful API da Santander Dev Week 2024 construída em Java 17 com Spring Boot 3.
 
