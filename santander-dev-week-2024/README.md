@@ -1,3 +1,10 @@
+# Santander Dev Week 2024 Java API
+
+RESTful API da Santander Dev Week 2024 construída em Java 17 com Spring Boot 3.
+
+## Diagrama de Classes (Domínio da API)
+
+```mermaid
 classDiagram
   class User {
     -String name
@@ -33,3 +40,5 @@ classDiagram
   User "1" *-- "N" Feature
   User "1" *-- "1" Card
   User "1" *-- "N" News
+```
+
