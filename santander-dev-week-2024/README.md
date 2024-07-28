@@ -2,7 +2,7 @@
 
 RESTful API da Santander Dev Week 2024 construída em Java 17 com Spring Boot 3.
 
-## Diagrama de Classes (Domínio da API)
+## Diagrama de Classes (Domínio da API) - Mermaid.js.org
 
 ```mermaid
 classDiagram
